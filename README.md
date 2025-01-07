@@ -6,7 +6,7 @@
 
 <h1>Para a web:</h1>
 <ol>
-<li>HTML5</li>li>
+<li>HTML5</li>
 <li>CSS</li>
 <li>PHP - <em>aprendendo...</em></li>
 <li>JS - <em>sei um pouco...</em></li>
