@@ -1,24 +1,20 @@
 <p>Olá, eu sou o Hito. grato por estar nesta comunidade.</p>
 <p>Tenho 26 anos de idade.</p>
 <p><b>Estou solteiro, 😇</b></p>
-<p>Sou interessado por <i>tecnologia</i> mais que por <b>mulheres</b>, 😊.</p>
+<p>Sou interessado por <i>tecnologia</i> 😊.</p>
 <p>De momento estou estudando PHP por conta própria, 🎉.</p>
 
-<h1>Para a web:</h1>
-<ol>
+<h1>Para a web, tenho conhecimentos de:</h1>
+<ul>
 <li>HTML5</li>
 <li>CSS</li>
+<li>Java Script, manipular a DOM</li>
 <li>PHP - <em>aprendendo...</em></li>
-<li>JS - <em>sei um pouco...</em></li>
-</ol>
-<h1>Não web:</h1>
-<ul>
-<li>Linguagem C</li>
-<li>Linguagem C#</li>
 </ul>
-<h1>Querendo aprender...</h1>
 <ul>
-<li>Pytho</li>
+  <li>C#;</li>
+  <li>C;</li>
+  <li>C++;</li>
 </ul>
 
-<p>Parrce que estamos apresentados! 😊</p>
+<p>Parece que estamos apresentados, obrigado! 😊</p>
