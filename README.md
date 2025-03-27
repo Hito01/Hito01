@@ -1,8 +1,8 @@
-<p>Olá, eu sou o Hito. grato por estar nesta comunidade.</p>
+<p>Olá, eu sou o Damião António Hossi Inácio.</p>
+<p>Eu vivo em Angola, Luanda/Vina/Estalagem.</p>
 <p>Tenho 26 anos de idade.</p>
 <p><b>Estou solteiro, 😇</b></p>
-<p>Sou interessado por <i>tecnologia</i> 😊.</p>
-<p>De momento estou estudando PHP por conta própria, 🎉.</p>
+<p>Por ser interessado por <i>tecnologia</i> resolvi ser seu aluno 😊.</p>
 
 <h1>Para a web, tenho conhecimentos de:</h1>
 <ul>
@@ -11,6 +11,7 @@
 <li>Java Script, manipular a DOM</li>
 <li>PHP - <em>aprendendo...</em></li>
 </ul>
+    <h1>Para o Back-End:</h1>
 <ul>
   <li>C#;</li>
   <li>C;</li>
