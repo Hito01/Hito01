@@ -1,5 +1,5 @@
 <p>Olá, eu sou o Damião António Hossi Inácio.</p>
-<p>Eu vivo em Angola, Luanda/Vina/Estalagem.</p>
+<p>Eu vivo em Angola, Luanda/Viana/Estalagem.</p>
 <p>Tenho 26 anos de idade.</p>
 <p><b>Estou solteiro, 😇</b></p>
 <p>Por ser interessado por <i>tecnologia</i> resolvi ser seu aluno 😊.</p>
