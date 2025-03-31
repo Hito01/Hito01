@@ -8,7 +8,7 @@
 <ul>
 <li>HTML5</li>
 <li>CSS</li>
-<li>Java Script, manipular a DOM</li>
+<li>Java Script, manipular o DOM</li>
 <li>PHP - <em>aprendendo...</em></li>
 </ul>
     <h1>Para o Back-End:</h1>
